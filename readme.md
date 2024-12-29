@@ -1,1 +1,0 @@
-Inspired by https://www.100jsprojects.com/
